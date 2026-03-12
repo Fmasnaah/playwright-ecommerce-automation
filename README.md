@@ -1,4 +1,4 @@
-# Playwright E2E Automation Framework
+# Playwright E2E Automation Framework using TypeScript (POM)
 
 This project demonstrates an End-to-End automation framework built using **Playwright with TypeScript** and the **Page Object Model (POM)** design pattern.
 
